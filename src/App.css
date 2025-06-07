@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fafafa;
+}
+
+.main-content {
+  margin-left: 220px;
+  padding: 100px 2rem 2rem;
+}

@@ -1,0 +1,83 @@
+.event-details-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.event-details-title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #3c3c3c;
+}
+
+.event-banner {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.event-details-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.event-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.event-header h3 {
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+.event-price {
+  color: hotpink;
+  font-weight: bold;
+}
+
+.event-meta p {
+  margin: 0.5rem 0;
+  color: #555;
+}
+
+.event-section {
+  margin-top: 2rem;
+}
+
+.event-section h4 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.event-section p,
+.event-section ul {
+  color: #444;
+  line-height: 1.5;
+}
+
+.event-section ul {
+  padding-left: 1.5rem;
+}
+
+.book-button {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #F26CF9;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.book-button:hover {
+  background-color: #5500aa;
+}
