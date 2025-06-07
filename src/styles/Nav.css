@@ -1,6 +1,5 @@
 .navbar {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
   background-color: #EEEFFF;
@@ -29,6 +28,8 @@
   list-style: none;
   display: flex;
   gap: 1.5rem;
+  margin-left: 7rem;
+  font-size: 18px;
 }
 
 .navbar-links a {

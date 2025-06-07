@@ -20,11 +20,12 @@
 
 .sidebar a {
   text-decoration: none;
-  color: #333;
+  color: #F589FA;
   font-weight: 500;
   transition: color 0.2s ease;
+  padding-left: 2rem;
 }
 
 .sidebar a:hover {
-  color: #2a68ff;
+  color: #eb74f1;
 }

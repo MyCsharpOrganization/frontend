@@ -28,6 +28,7 @@ const EventItem = ({ item }) => {
         </div>
         <div className="event-title">{item.title}</div>
         <div className="event-location">{item.location}</div>
+        <div className='event-price'>$100</div>
       </div>
     </Link>
   )
